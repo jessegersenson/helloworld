@@ -1,5 +1,1 @@
-#!/bin/bash
-hostname
-date
-whoami
-echo hi
+console.log('hi');
