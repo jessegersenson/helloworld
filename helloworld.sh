@@ -5,5 +5,5 @@ const hostname = os.hostname()
 logger.info('test log message')
 await run(`whoami`)
 await run(`ls -altr`)
-await run(`./test.sh`)
+await run(`~/./chessmates-deploy.sh -e prod`)
 
