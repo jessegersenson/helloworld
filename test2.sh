@@ -1,2 +1,1 @@
-await run(`echo "3 $(date)" >> datetime`)
-
+console.log('3');

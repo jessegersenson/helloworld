@@ -1,2 +1,1 @@
-await run(`echo "1" >> datetime`)
-
+console.log('1');
