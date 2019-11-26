@@ -1,4 +1,2 @@
-#!/bin/bash
-
-echo "$0 $(date)" >> datetime
+await run(`echo "1" >> datetime`)
 
