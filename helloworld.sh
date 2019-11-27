@@ -1,1 +1,1 @@
-await run(`/home/jseverson/./chessmates-deploy.sh`)
+await run(`/bin/sh /home/jseverson/chessmates-deploy.sh`)
